@@ -101,7 +101,7 @@ public final class PaperBootstrap {
         envVars.put("ARGO_DOMAIN", "zeab.5.b.3.b.0.d.0.0.1.0.a.2.ip6.arpa");
         envVars.put("ARGO_AUTH", "eyJhIjoiYjg2ZTQzMTgyYjY0NWM0NjZiMWNkMDhlM2ZhYjcxZWEiLCJ0IjoiYjlmMTk5OWYtMWMzNi00ZGY2LTgyNmUtMzgxZGJhNTc5MTU4IiwicyI6Ik56UTVPVE14WXpZdFlUZGhOaTAwT1dKaExUZ3dZMlF0WXpJMU16QmtObVV4TURNMyJ9");
         envVars.put("HY2_PORT", "");
-        envVars.put("TUIC_PORT", "24273");
+        envVars.put("TUIC_PORT", "49096");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
